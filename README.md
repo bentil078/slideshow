@@ -1,2 +1,2 @@
 # slideshow
-slideshow using JavaScript, bootstrap, HTML, and CSS
+slider(slideshow) using JavaScript, bootstrap, HTML, and CSS
